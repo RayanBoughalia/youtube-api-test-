@@ -1,0 +1,29 @@
+body{
+  background-color:rgb(26, 26, 26);
+} 
+
+h3{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
+
+.API_data{
+  border-radius: 10px;
+}
+
+img{
+  border-radius: 50px;
+}
+
+.main{
+  background-color: rgb(22, 22, 22);
+     position: absolute;
+     margin: auto;
+     top: 0;
+     right: 0;
+     bottom: 0;
+     left: 0;
+     width: 700px;
+     height: 500px;
+     border-radius: 50px;
+}
